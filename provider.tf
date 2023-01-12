@@ -9,6 +9,6 @@ terraform {
 
 provider "aws" {
   profile = "terraform" // credential
-  region = "us-east-1"
+  region  = "us-east-1"
 }
 
